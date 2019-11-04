@@ -13,6 +13,6 @@ var port102= {num:102, desc:"MS Exchange"};
 var port110= {num:110, desc:"POP3"};
 var port113= {num:113, desc:"Ident"};
 var port123= {num:123, desc:"NTP"};
-var port124= {num:124, desc:"Martin"};
+var port124= {num:124, desc:"LP"};
 
 var ports = [port7, port20, port21, port22, port23, port25, port42, port53, port69, port80, port88, port102, port110, port113, port123, port124];
